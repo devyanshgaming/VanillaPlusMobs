@@ -1,0 +1,18 @@
+enhanced-spawn-chance: 0.30
+red-glow: true
+health-multiplier: 2.0
+damage-multiplier: 1.5
+
+bonus-drops:
+  ZOMBIE:
+    rotten-flesh: 2
+    iron-ingot-chance: 0.05
+  SKELETON:
+    bone: 2
+    arrow: 2
+  CREEPER:
+    gunpowder: 2
+  SPIDER:
+    string: 2
+  ENDERMAN:
+    ender-pearl: 1

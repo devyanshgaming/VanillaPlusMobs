@@ -1,0 +1,6 @@
+name: VanillaPlusMobs
+version: '${version}'
+main: com.devyanshgaming.vanillaplusmobs.VanillaPlusMobs
+api-version: '1.21.5'
+author: devyanshgaming
+description: Enhanced vanilla mobs
